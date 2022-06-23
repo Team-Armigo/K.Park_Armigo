@@ -8,7 +8,7 @@ This Repository is to upload development and study log for 2022-1 CRA vacation p
 Armigo is an application that can execute different types of AR based mini games, allowing users to play and compete with other users online. This README file is to help you to understand and overview brief log for the development. Specific details are added within the repository provided.
 
 
-본 리포지터리는 박경륜의 2022-1 CRA 방학 프로젝트 "아미고" 개발 및 스터디 일지를 업로드 하기 위함입니다.
+본 리포지터리는 2022-1 CRA 신입기수 박경륜의 방학 프로젝트 "아미고" 개발 및 스터디 일지를 업로드 하기 위함입니다.
 아미고는 AR 기반의 여러 미니게임을 제공하는 모바일 플랫폼으로서 다른 유저들과의 실시간 온라인 플레이를 지원합니다.
 현재 README 파일은 전반적인 개발일지에 대한 이해를 돕기 위함으로, 구체적인 일지들은 본 리포지토리 안의 폴더와 파일들을 통해 제공될 예정입니다.
 
