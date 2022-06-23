@@ -1,5 +1,6 @@
 # Development and Study Log - 개발 및 스터디 일지
-![project image](https://user-images.githubusercontent.com/107975543/175053250-99ae23af-a718-42bd-980d-fa5549f6c61b.png)
+![armigo title image](https://user-images.githubusercontent.com/107975543/175189297-bed2d579-3849-49a4-9e54-fa3edd07a686.png)
+
 
 ## 1. Purpose
 
