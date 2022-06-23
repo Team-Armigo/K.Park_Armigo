@@ -27,4 +27,18 @@ Armigo is an application that can execute different types of AR based mini games
   질문과 그에 따른 해답들
  
 ## 3. Study Log
-### Soon To Be Updated
+Overall Development is consisted of total 11 weeks throughout the whole sumemr vacation.
+
+전체 개발일정은 총 11주차로 여름방학 내내 진행됩니다.
+
+### Study Week
+* Week 1~3
+
+### Game Developing Week
+* Week 4~7
+
+### Specific Details Developing Week
+* Week 8~9
+
+### Final Checkout Week
+* Week 10~11
