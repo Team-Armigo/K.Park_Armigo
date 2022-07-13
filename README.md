@@ -1,3 +1,18 @@
+# Resources
+- 유니티 Gradle Build 문제 (C드라이브로 프로젝트 위치 설정으로 문제 해결)
+  - https://funfunhanblog.tistory.com/209
+  
+
+- 유니티 AR Camera 위치 문제 (Render Texture로 문제 해결)
+  - https://blog-e.lab7sg.com/archives/246
+  - https://www.agora.io/en/blog/video-chat-with-unity3d-ar-foundation-pt3-remote-assistance-app/
+  - https://community.lightship.dev/t/easiest-way-to-display-the-camera-video-to-a-texture/815/2
+  - https://funfunhanblog.tistory.com/209
+  - https://docs.unity3d.com/kr/current/Manual/class-RenderTexture.html
+  - https://forum.unity.com/threads/ar-foundation-camera-output-to-render-texture.1075068/
+
+
+
 # Development and Study Log - 개발 및 스터디 일지
 ![armigo title image](https://user-images.githubusercontent.com/107975543/175189297-bed2d579-3849-49a4-9e54-fa3edd07a686.png)
 
