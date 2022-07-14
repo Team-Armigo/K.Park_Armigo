@@ -1,6 +1,7 @@
 # Resources
 - 유니티 Gradle Build 문제 (C드라이브로 프로젝트 위치 설정으로 문제 해결)
   - https://funfunhanblog.tistory.com/209
+  - 빌드하는 프로젝트 이름에 non ascii code가 있어도 빌드 실패
   
 
 - 유니티 AR Camera 위치 문제 (Render Texture로 문제 해결)
@@ -58,3 +59,56 @@ Overall Development is consisted of total 11 weeks throughout the whole sumemr v
 
 ### Final Checkout Week
 * Week 10~11
+
+
+# 개발 현황
+## 1주차
+
+## 2주차
+
+## 3주차
+
+## 4주차
+### 월요일 
+
+### 화요일
+
+### 수요일
+#### 3D, AR 플랫폼 안에서 2D 게임 만들기
+- AR 카메라 말고 별도의 카메라가 필요한가?
+- 2.5D로 한번 만들어야 할까?
+- 3D 플랫폼 안에서 Canvas 생성으로 2D 베이스 게임을 만들 수 있다. 
+
+#### 기본 똥 피하기 게임만 구현해보기
+- 게임 배경 만들기
+- 게임 캐릭터 생성하기
+- 게임 장애물 생성하기
+- 장애물 스크립트 생성, 중력 재현
+
+- AR Camera 화면 상단에 띄우기
+    - 캔버스에 Raw image 생성
+프로젝트뷰에서 Render Texture 생성
+AR Camera, Raw Image에 Render Texture 붙이기
+
+빌드 실행중 gradle build 오류가 뜨는데 읽어보니까 
+
+프로젝트 경로에 아스키 캐릭터가 아닌 문자가 들어있으면 윈도우에서 빌드가 실패할 확률이 크다고 한다. 
+
+빌드 성공!
+근데 핸드폰 비율에 맞춰서 나오지는 않는다…
+
+내일 할 일:
+화면 비율 맞추기
+땅 생성하기
+Collider 적용하기
+똥 생성하기
+땅에 충돌시 똥 삭제하기
+메인 캐릭터 생성하기
+
+AR Core 다루기
+기준점 잡아서 x y 좌표 구하기
+플레이어 움직이는 함수 만들기
+
+### 목요일
+#### 생각해볼 포인트
+- 핸드폰 화면을 바꾸면 horizontal, vertical view에 맞게 각각 scene을 설정해주어야 할까?
