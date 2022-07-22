@@ -30,3 +30,4 @@
 ## UI 구현 자료
 - https://www.youtube.com/watch?v=RsgiYqLID-U&ab_channel=CocoCode
 - https://www.youtube.com/watch?v=iXWFTgFNRdM&ab_channel=GameDevGuide (로딩 스크린)
+- https://www.youtube.com/watch?v=sBR0oJJjx6Q&ab_channel=DapperDino (멀티플레이 로비 구현)
