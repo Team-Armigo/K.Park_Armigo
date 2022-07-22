@@ -134,3 +134,47 @@ AR Core 다루기
 - 점수 시스템 구현
 - 하트 카운트 구현
 - 장애물 피하는 인식 구현
+
+
+Scene 플로우
+
+LoginScene   		      X
+MainMenuScene          X
+SettingsScene             X
+MyPageScene              X
+RoomListScene           X
+RoomCreateScene      X
+RoomMainScene		X
+ChooseGameScene	O
+
+# 팝업 형식으로 다른 씬을 불러오면 안되나?
+ex) 방 리스트 씬에서 방 생성은 팝업 창으로 
+Load other scene as a within pop up window. - Unity Answers
+
+
+Scene별 필요한 내용
+
+LoginScene
+로그인 버튼
+회원가입 버튼
+애플 / 구글 / 스팀 / 이메일 로그인
+MainMenuScene
+설정 버튼
+마이페이지 버튼
+Room 버튼
+SettingsScene
+MyPageScene
+RoomListScene
+Room 목록들 (개별 클릭 가능)
+Room 생성 버튼
+다른 Room Scene들 보여줄 Render Texture Object
+RoomCreateScene
+방 이름
+방 비밀번호
+RoomMainScene
+대기자들 리스트
+게임 플레이 버튼
+준비 버튼
+ChooseGameScene
+게임 각각 3개 버튼
+
